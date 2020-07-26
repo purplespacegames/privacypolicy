@@ -18,4 +18,4 @@ THIRD PARTY PRODUCTS AND SERVICES
 
 Flying Astronaut may contain links to other products or services provided by third parties. We do not own or control these third party products or services and are not liable or responsible for their accuracy or content. Therefore, your use of such third party products or services is subject to their own terms and conditions of use and privacy policies.
 
-If you require any more information or have any questions about our terms of use or privacy policy, please feel free to contact us by email at purple.space.development@gmail.com
+If you require any more information or have any questions about our terms of use or privacy policy, please feel free to contact us by email at purplespacestudios@gmail.com
